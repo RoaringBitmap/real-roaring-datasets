@@ -1,6 +1,8 @@
 Real data sets for bitmap testing
 ==
 
+See also https://github.com/RoaringBitmap/CRoaring/tree/master/benchmarks/realdata for uncompressed .txt versions.
+
 Essentially, each file represents a set of integer values. You can create
 bitmaps out of these files.
 
